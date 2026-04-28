@@ -1,0 +1,8 @@
+Origin: oguzokdotdev
+Label: TestRepo
+Suite: stable
+Codename: stable
+Architectures: amd64 i386 all
+Components: main
+Description: Oguzok's test APT repository
+SignWith: D94514268679FB22277831311949EAFC1AA5356D
