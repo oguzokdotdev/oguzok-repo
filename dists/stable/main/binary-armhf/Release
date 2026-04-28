@@ -1,0 +1,6 @@
+Archive: stable
+Component: main
+Origin: oguzokdotdev
+Label: TestRepo
+Architecture: armhf
+Description: Oguzok's test APT repository
