@@ -1,0 +1,48 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: oguzokdotdev
+Label: TestRepo
+Suite: stable
+Codename: stable
+Date: Tue, 28 Apr 2026 09:41:59 UTC
+Architectures: amd64 i386
+Components: main
+Description: Oguzok's test APT repository
+MD5Sum:
+ d4f1f7a9c70b69704d5ab7c6d295f80b 416 main/binary-amd64/Packages
+ e13cf1d42b621c732448872c88f329df 319 main/binary-amd64/Packages.gz
+ a80fbb5de6a78749fab0f6db403a0943 131 main/binary-amd64/Release
+ d4f1f7a9c70b69704d5ab7c6d295f80b 416 main/binary-i386/Packages
+ e13cf1d42b621c732448872c88f329df 319 main/binary-i386/Packages.gz
+ a77004a193ba7f259390343b5d6cefb6 130 main/binary-i386/Release
+SHA1:
+ 3cbf7d9c07e566c0b58465524cd1266373da7e28 416 main/binary-amd64/Packages
+ 1bd3107c67336a5891c5fa873382f8b84a856907 319 main/binary-amd64/Packages.gz
+ 2840aa1e645956ec3b6a047ca5ba169196e141fa 131 main/binary-amd64/Release
+ 3cbf7d9c07e566c0b58465524cd1266373da7e28 416 main/binary-i386/Packages
+ 1bd3107c67336a5891c5fa873382f8b84a856907 319 main/binary-i386/Packages.gz
+ 0cb1ad517f3b0169c9e0bae52aec7653c290dcf4 130 main/binary-i386/Release
+SHA256:
+ d3d354b16ecac6cdd3c78d5e3371ecec28134e22b668cc9c5bd4774bdc9648e6 416 main/binary-amd64/Packages
+ db492805414e1303f7f3d49e4cf253f3e7836416b3c995a33545630e19d7e403 319 main/binary-amd64/Packages.gz
+ bb17f2f25f3dae5220037a0c99006987842d2e5e7a7e359642eb7a4822b8fcbb 131 main/binary-amd64/Release
+ d3d354b16ecac6cdd3c78d5e3371ecec28134e22b668cc9c5bd4774bdc9648e6 416 main/binary-i386/Packages
+ db492805414e1303f7f3d49e4cf253f3e7836416b3c995a33545630e19d7e403 319 main/binary-i386/Packages.gz
+ 652dc6e2ffe2a0c2f71901767b1c1582b3b44ad866fafc15c3bc0508ef6611c5 130 main/binary-i386/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEE2UUUJoZ5+yIneDExGUnq/BqlNW0FAmnwgOgACgkQGUnq/Bql
+NW2HZQ//fR/7GCF8b1U35Hibztho4HrPm5cfw0n7NJG3KoA5Lxe7gB2gEeLuZm9o
+o7eUsC7Gry7wv/ADaKGvl/pIC15hHvu/XN2klhULBxZgjxPis6vBOd3gV93+E4rE
+N6V4IDwNpDTLyULC0bqUdutqqZ0YLVHIAGApSr67winQyzmQgphVPBKrrkV4G+5j
+P56asQyQNguymJ868aFbCT2Arh/jR9CiMzHfUtKbeKwfs4oITHsEBXV41WWjqXTP
+4BgaycazlqeBhgHvR6BAEsu04V7kTE/kutD4DFQJnAeN/1tMIWRjr+aUcQqhjB/8
+y9IA3u0vvu/ugwwzZZ8nr/nbVAKYVTRVWOLyhnU50wC74CdIesborvITXrZ1YUWZ
+2xcYyKV+e33jmVXvDtCyM/NxvTn135v59cRZ6hQLgg8kM+shDgDxn4u/HyTdhx/1
+VKGfZ6n0nHNQyTLtXUFEc5P6XIbDjAz/h2AC1tT+PArbu58vHEAExfQtMr2bhWW7
+RZmyqyCphSjM/mCTV7d9uqKrrhUOSD1E27f+4Ny8t/wTZHPJ3AOKTywCpWeUe7w9
+XUyC+cLo6tssvck2pvnj74ifNnYQfSQuE05o3Xo/eKABi6IJQNtaaktTRPlmznpx
+58DHbCMzq0M3YAfI7dh1GZnfx/wrrJsHgLBSsCTVTzrESXhkazg=
+=1E45
+-----END PGP SIGNATURE-----

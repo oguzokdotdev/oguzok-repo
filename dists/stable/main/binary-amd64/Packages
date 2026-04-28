@@ -1,0 +1,14 @@
+Package: o-test
+Version: 1.0
+Architecture: all
+Maintainer: oguzokdotdev <hi@oguzok.tech>
+Priority: optional
+Section: utils
+Filename: pool/main/o/o-test/o-test_1.0_all.deb
+Size: 872
+SHA256: 9fdabd615d6bcdc436f75df045b84239c1d1eed20c321c4676f36f156cb47b8a
+SHA1: 8f97a0571b7135632ee74ba31ff22a3f79ec301b
+MD5sum: 41e53ed747ae72507c58ce3aab220ef3
+Description: Test package from oguzok.dev
+ This is a simple test script.
+

@@ -1,0 +1,6 @@
+Archive: stable
+Component: main
+Origin: oguzokdotdev
+Label: TestRepo
+Architecture: i386
+Description: Oguzok's test APT repository
